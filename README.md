@@ -1,2 +1,2 @@
 # composerMVC
-![Image text](https://i.ibb.co/D51RNLB/Captura.png)
+![Image text](https://ibb.co/hLf6ywN)
