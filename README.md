@@ -1,3 +1,3 @@
 
 😊😃
-![Image text](https://i.ibb.co/FmVrKC1/Captura.png)
+![Image text](https://github.com/99andres/composerMVC/blob/main/imagenes/Captura.PNG)
